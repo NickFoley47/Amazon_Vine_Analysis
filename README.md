@@ -4,7 +4,7 @@
 To determine if there are any bias toward favorable reviews from the Amazon Vine program. The Amazon Vine Program is a program where amazon customers are sent products and required to leave a review. Amazon Vine program members are the most trusted reviewers on Amazon, according to Amazon on their website. 
 
 ## Resources
-Data 
+Data:
 - [Link to Data](https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Video_Games_v1_00.tsv.gz)
 
 Software – AWS, PySpark, PgAdmin, SQL
