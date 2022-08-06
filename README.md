@@ -14,6 +14,7 @@ Software – AWS, PySpark, PgAdmin, SQL
 Vine Data:
 
 ![paid1](https://github.com/NickFoley47/Amazon_Vine_Analysis/blob/main/Pics/paid1.PNG)
+
 Non-Vine Data:
 
 ![unpaid](https://github.com/NickFoley47/Amazon_Vine_Analysis/blob/main/Pics/unpaid.PNG)
