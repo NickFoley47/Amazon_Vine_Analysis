@@ -5,8 +5,10 @@ To determine if there are any bias toward favorable reviews from the Amazon Vine
 
 ## Resources
 Data 
-[Link to Data](https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Video_Games_v1_00.tsv.gz)
+- [Link to Data](https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Video_Games_v1_00.tsv.gz)
+
 Software – AWS, PySpark, PgAdmin, SQL
+
 ## Results
 
 Vine Data:
