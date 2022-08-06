@@ -23,7 +23,7 @@ Non-Vine Data:
 -	Vine total reviews that were 5-stars: 48
 -	Vine percentage for 5-star reviews: 51.1%
 -	Non-Vine total reviews: 40,471
--	Non-Vine reviews that were 5-stars: 15663
+-	Non-Vine reviews that were 5-stars: 15,663
 -	Non-vine percentage for 5-star reviews: 38.7%
 
 ## Summary
